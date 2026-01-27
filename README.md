@@ -1,45 +1,71 @@
-**HR Analytics Dashboard – Employee Attrition Analysis**
+📊 HR Analytics Dashboard – Employee Attrition Analysis
+🚀 Project Overview
 
-1. Project Overview
+This project showcases an interactive HR Analytics Dashboard built using Tableau, designed to analyze employee attrition trends and workforce dynamics.
+The dashboard helps HR teams and decision-makers uncover key insights, identify attrition drivers, and take data-driven actions to improve employee retention.
 
-This project presents an interactive HR Analytics Dashboard built using Tableau, aimed at analyzing employee attrition trends and workforce insights. The dashboard helps HR teams and management understand key factors affecting attrition and make data-driven decisions to improve employee retention.
+🎯 Objectives
 
-2. Objectives
-   -Analyze employee attrition rate and active workforce.
-   -Understand attrition trends by age, gender, department, and education.
-   -Identify high-risk employee groups.
-   -Support HR decision-making using visual insights.
+✔ Analyze employee attrition rate and workforce strength
+✔ Identify attrition trends across age, gender, department & education
+✔ Detect high-risk employee segments
+✔ Support strategic HR decisions using data visualization
 
-3. Tools & Technologies Used
-   -Tableau – Dashboard creation & visualization
-   -Excel / CSV – Data preprocessing
-   -Data Analysis – KPI calculation, segmentation, aggregation
+🧰 Tools & Technologies
 
-4. Dashboard Features
-   -Key Metrics
-   -Total Employees: 1,252
-   -Attrition Count: 201
-   -Attrition Rate: 16.05%
-   -Active Employees: 1,051
-   -Average Age: 37
+Tableau – Dashboard creation & visualization
 
-5. Visual Insights
+Excel / CSV – Data cleaning & preprocessing
 
-   ✔ Department-wise employee distribution
-   ✔ Age group-wise employee count
-   ✔ Attrition by education field
-   ✔ Gender-based attrition across age groups
-   ✔ Job role-wise satisfaction count
-   ✔ Interactive filters for dynamic analysis
+Data Analytics – KPI calculation, segmentation & insights
 
-6. Dashboard Preview
+📈 Dashboard Highlights
+🔹 Key Metrics
 
-<img width="829" height="464" alt="image" src="https://github.com/user-attachments/assets/4781e93d-007b-4c25-a0fa-aeb1e8869e3b" />
+👥 Total Employees: 1,252
+
+❌ Attrition Count: 201
+
+📉 Attrition Rate: 16.05%
+
+✅ Active Employees: 1,051
+
+🎂 Average Age: 37
+
+📊 Visual Insights
+
+✔ Department-wise employee distribution
+✔ Age group-wise workforce analysis
+✔ Education field-wise attrition
+✔ Gender-based attrition across age groups
+✔ Job role-wise satisfaction levels
+✔ Interactive filters for deep analysis
+
+🖼️ Dashboard Preview
+
+<img width="829" height="464" alt="image" src="https://github.com/user-attachments/assets/32eb3b26-319d-4c72-9a2c-7b7990acc975" />
 
 
-7. Key Insights
-   -Highest attrition observed in 25–34 age group
-   -R&D and Sales have the highest employee count
-   -Attrition varies significantly across education fields
-   -Younger employees show higher turnover
-   -Gender-based trends vary across age group
+🔍 Key Insights
+
+📌 Highest attrition observed in 25–34 age group
+📌 R&D and Sales departments have the largest workforce
+📌 Attrition varies significantly by education background
+📌 Younger employees show higher turnover
+📌 Gender-based attrition trends differ across age groups
+
+
+🚀 How to Use
+
+Download the .twbx file
+Open it using Tableau Desktop / Tableau Public
+Explore insights using interactive filters
+
+
+🎯 Use Cases
+
+✔ HR Analytics
+✔ Employee Retention Strategy
+✔ Workforce Planning
+✔ Business Decision Support
+✔ Data Visualization Portfolio
