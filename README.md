@@ -1,4 +1,6 @@
-📊 HR Analytics Dashboard – Employee Attrition Analysis
+## HR Analytics Dashboard ##
+
+
 🚀 Project Overview
 
 This project showcases an interactive HR Analytics Dashboard built using Tableau, designed to analyze employee attrition trends and workforce dynamics.
